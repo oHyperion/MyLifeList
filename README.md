@@ -35,7 +35,7 @@
 * 带领超过100人团队
 * 自己所做的工作累计上新闻报道30次（1/30）
 * 接受采访上一次电视
-* 与TOP500公司员工一起配合完成工作（~~完成Qualcomm/MediaTek/Apple/SoftBank~~）
+* 与TOP500公司员工一起配合完成工作（~~完成Qualcomm/MediaTek/Apple/SoftBank/CMCC~~）
 * 累计与100名大中小企业CXO面谈交流合作
 * 累计进行十次演讲
 * 主持一次超过千人的大型活动或者演讲
